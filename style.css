@@ -12,17 +12,21 @@ body{
     text-align: center;
     color: #FFFFFF;
     min-height: 100px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
 
     margin-top: 10px;
     background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
-   ;
+   
     
     text-shadow: 4px 3px 0px #7A7A7A;
         
    }
+  
    
 
   
